@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/01-spring-boot-overview/03-actuator-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01-spring-boot-overview/04-actuator-security-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01-spring-boot-overview/05-command-line-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02-spring-boot-spring-core" vcs="Git" />
+  </component>
+</project>
